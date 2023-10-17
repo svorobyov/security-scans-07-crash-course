@@ -2,7 +2,7 @@
 
 ## Explanations
 
-1. Material prepared and used for Solita crash course on 2023-03-15
+1. Material prepared and used for my DevSecOps crash course on 2023-03-15
 
 2. This repository contains sample Azure DevOps pipelines
    for a few security scans with a few extremely useful

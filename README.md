@@ -1,5 +1,5 @@
-# Solita DevSecOps Crash Course, 2023-03-15
-### (This repo name: `solita/sv-security-scans-07-crash-course`)
+# DevSecOps Crash Course, 2023-03-15
+### (This repo name: https://github.com/svorobyov/svorobyov/sv-security-scans-07-crash-course)
 
 
 ## Remarks
@@ -24,13 +24,13 @@
    security workflows in (bigger numbers correspond to later
    versions):
 
-   - https://github.com/solita/sv-security-scans-07-crash-course
-   - https://github.com/solita/sv-security-scans-06
-   - https://github.com/solita/sv-security-scans-05a
-   - https://github.com/solita/sv-security-scans-04
-   - https://github.com/solita/sv-security-scans-03
-   - https://github.com/solita/sv-security-scans-02 (has a few of my recent security blogs)
-   - https://github.com/solita/sv-security-scans-01 (sorry, it's Internal, for Solita people only)
+   - https://github.com/svorobyov/security-scans-07-crash-course
+   - https://github.com/svorobyov/security-scans-06
+   - https://github.com/svorobyov/security-scans-05a
+   - https://github.com/svorobyov/security-scans-04
+   - https://github.com/svorobyov/security-scans-03
+   - https://github.com/svorobyov/security-scans-01 (it can be Internal)
+   - https://github.com/svorobyov/blogs-2023 (contains a few of my recent security blogs)
 
 
 ## Workflows in `.github/workflows/`
