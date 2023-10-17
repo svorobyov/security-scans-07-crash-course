@@ -42,7 +42,7 @@ jobs:
       - name: Checkout from another repo
         uses: actions/checkout@v3  # TODO: checkout from ANOTHER repository!
         with:
-          repository: 'solita/sv-security-scans-05'
+          repository: 'svorobyov/security-scans-05'
           ref: 'main'
           path: ${{ env.SCANNED_REPO }}  # Relative path under $GITHUB_WORKSPACE to place the repository
       - name: Explore 1
